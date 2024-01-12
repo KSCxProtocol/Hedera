@@ -1,0 +1,111 @@
+{
+  "folders": {
+    "items": {
+      "src": {},
+      "test": {},
+      "host": {}
+    }
+  },
+  "packages": {
+    "Kar.Web3.Hedera.Domain.Shared": {
+      "path": "src/Kar.Web3.Hedera.Domain.Shared/Kar.Web3.Hedera.Domain.Shared.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.Domain": {
+      "path": "src/Kar.Web3.Hedera.Domain/Kar.Web3.Hedera.Domain.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.Application.Contracts": {
+      "path": "src/Kar.Web3.Hedera.Application.Contracts/Kar.Web3.Hedera.Application.Contracts.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.Application": {
+      "path": "src/Kar.Web3.Hedera.Application/Kar.Web3.Hedera.Application.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.EntityFrameworkCore": {
+      "path": "src/Kar.Web3.Hedera.EntityFrameworkCore/Kar.Web3.Hedera.EntityFrameworkCore.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.MongoDB": {
+      "path": "src/Kar.Web3.Hedera.MongoDB/Kar.Web3.Hedera.MongoDB.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.HttpApi": {
+      "path": "src/Kar.Web3.Hedera.HttpApi/Kar.Web3.Hedera.HttpApi.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.HttpApi.Client": {
+      "path": "src/Kar.Web3.Hedera.HttpApi.Client/Kar.Web3.Hedera.HttpApi.Client.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.TestBase": {
+      "path": "test/Kar.Web3.Hedera.TestBase/Kar.Web3.Hedera.TestBase.abppkg",
+      "folder": "test"
+    },
+    "Kar.Web3.Hedera.EntityFrameworkCore.Tests": {
+      "path": "test/Kar.Web3.Hedera.EntityFrameworkCore.Tests/Kar.Web3.Hedera.EntityFrameworkCore.Tests.abppkg",
+      "folder": "test"
+    },
+    "Kar.Web3.Hedera.MongoDB.Tests": {
+      "path": "test/Kar.Web3.Hedera.MongoDB.Tests/Kar.Web3.Hedera.MongoDB.Tests.abppkg",
+      "folder": "test"
+    },
+    "Kar.Web3.Hedera.Domain.Tests": {
+      "path": "test/Kar.Web3.Hedera.Domain.Tests/Kar.Web3.Hedera.Domain.Tests.abppkg",
+      "folder": "test"
+    },
+    "Kar.Web3.Hedera.Application.Tests": {
+      "path": "test/Kar.Web3.Hedera.Application.Tests/Kar.Web3.Hedera.Application.Tests.abppkg",
+      "folder": "test"
+    },
+    "Kar.Web3.Hedera.HttpApi.Host": {
+      "path": "host/Kar.Web3.Hedera.HttpApi.Host/Kar.Web3.Hedera.HttpApi.Host.abppkg",
+      "folder": "host"
+    },
+    "Kar.Web3.Hedera.Web": {
+      "path": "src/Kar.Web3.Hedera.Web/Kar.Web3.Hedera.Web.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.HttpApi.Client.ConsoleTestApp": {
+      "path": "test/Kar.Web3.Hedera.HttpApi.Client.ConsoleTestApp/Kar.Web3.Hedera.HttpApi.Client.ConsoleTestApp.abppkg",
+      "folder": "test"
+    },
+    "Kar.Web3.Hedera.Web.Host": {
+      "path": "host/Kar.Web3.Hedera.Web.Host/Kar.Web3.Hedera.Web.Host.abppkg",
+      "folder": "host"
+    },
+    "Kar.Web3.Hedera.AuthServer": {
+      "path": "host/Kar.Web3.Hedera.AuthServer/Kar.Web3.Hedera.AuthServer.abppkg",
+      "folder": "host"
+    },
+    "Kar.Web3.Hedera.Host.Shared": {
+      "path": "host/Kar.Web3.Hedera.Host.Shared/Kar.Web3.Hedera.Host.Shared.abppkg",
+      "folder": "host"
+    },
+    "Kar.Web3.Hedera.Web.Unified": {
+      "path": "host/Kar.Web3.Hedera.Web.Unified/Kar.Web3.Hedera.Web.Unified.abppkg",
+      "folder": "host"
+    },
+    "Kar.Web3.Hedera.Blazor": {
+      "path": "src/Kar.Web3.Hedera.Blazor/Kar.Web3.Hedera.Blazor.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.Blazor.Host": {
+      "path": "host/Kar.Web3.Hedera.Blazor.Host/Kar.Web3.Hedera.Blazor.Host.abppkg",
+      "folder": "host"
+    },
+    "Kar.Web3.Hedera.Blazor.Server": {
+      "path": "src/Kar.Web3.Hedera.Blazor.Server/Kar.Web3.Hedera.Blazor.Server.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.Blazor.WebAssembly": {
+      "path": "src/Kar.Web3.Hedera.Blazor.WebAssembly/Kar.Web3.Hedera.Blazor.WebAssembly.abppkg",
+      "folder": "src"
+    },
+    "Kar.Web3.Hedera.Blazor.Server.Host": {
+      "path": "host/Kar.Web3.Hedera.Blazor.Server.Host/Kar.Web3.Hedera.Blazor.Server.Host.abppkg",
+      "folder": "host"
+    }
+  }
+}

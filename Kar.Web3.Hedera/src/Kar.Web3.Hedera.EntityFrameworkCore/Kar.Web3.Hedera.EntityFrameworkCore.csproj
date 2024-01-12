@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <Import Project="..\..\common.props" />
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Kar.Web3.Hedera</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Volo.Abp.EntityFrameworkCore" Version="8.0.1" />
+    <ProjectReference Include="..\Kar.Web3.Hedera.Domain\Kar.Web3.Hedera.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

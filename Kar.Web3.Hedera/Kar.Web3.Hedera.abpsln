@@ -1,0 +1,7 @@
+{
+  "modules": {
+    "Kar.Web3.Hedera": {
+      "path": "Kar.Web3.Hedera.abpmdl"
+    }
+  }
+}

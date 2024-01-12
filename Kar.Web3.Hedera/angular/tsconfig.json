@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.prod.json",
+  "compilerOptions": {
+    "paths": {
+      "@kar.Web3/hedera": [
+        "projects/hedera/src/public-api.ts"
+      ],
+      "@kar.Web3/hedera/config": [
+        "projects/hedera/config/src/public-api.ts"
+      ],
+      "@proxy": ["projects/hedera/src/lib/proxy/index.ts"],
+      "@proxy/*": ["projects/hedera/src/lib/proxy/*"]
+    }
+  }
+}
